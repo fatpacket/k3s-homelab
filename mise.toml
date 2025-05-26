@@ -1,0 +1,4 @@
+## These are tools ONLY for this project - not my global tools or packages ##
+
+[tools]
+kubectl = "1.33.1"
