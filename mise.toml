@@ -2,3 +2,4 @@
 
 [tools]
 kubectl = "1.33.1"
+vim = "latest"
